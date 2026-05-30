@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricseonnect",
+        "uuid": 2199120,
+        "checksum": "sa6ep"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
